@@ -1,0 +1,1 @@
+{"objects": ["key"], "instances": [{"label": "key", "mask_score": 0.9763861298561096, "bbox": [299.0, 617.0, 449.0, 755.0], "bbox_mask_iou": 0.9657261882219277, "image_url": "/results/objects/5e291b14-a68f-4172-bc5d-bf22b42ddc7b/000_key.png"}], "objects_count": 1}

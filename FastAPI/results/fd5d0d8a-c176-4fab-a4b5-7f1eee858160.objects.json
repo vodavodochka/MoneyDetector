@@ -1,0 +1,1 @@
+{"objects": ["card", "coin", "key", "mouse"], "instances": [{"label": "key", "mask_score": 0.9760158061981201, "bbox": [299.0, 617.0, 449.0, 755.0], "bbox_mask_iou": 0.9657261882219277, "image_url": "/results/objects/fd5d0d8a-c176-4fab-a4b5-7f1eee858160/000_key.png"}], "objects_count": 1}

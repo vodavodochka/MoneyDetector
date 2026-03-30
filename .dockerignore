@@ -1,0 +1,9 @@
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+FastAPI/uploads
+FastAPI/results
+web/detector/node_modules
+web/detector/.next
